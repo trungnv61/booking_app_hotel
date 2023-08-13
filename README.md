@@ -4,7 +4,7 @@
 
 
 Dự án được thực hiện bởi nhóm 8 - lớp công nghệ phần mềm.\
-Đây là một dự án booking khách sạn, hỗ trợ quản lý khách sạn được lập trình trên nền tảng Flutter.\
+Đây là một dự án booking khách sạn, hỗ trợ quản lý khách sạn được lập trình trên nền tảng Flutter.
 
 
 ## Thành viên nhóm
