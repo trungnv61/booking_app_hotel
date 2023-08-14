@@ -24,9 +24,7 @@ Mobile Emulators 4XL API 33 or higher.
 ## Tính năng
 
 ### `SignIn`
-![c](https://github.com/trungnv61/booking_app_hotel/assets/77780956/33372ce8-7d9f-4c93-ade0-c630a29581a3)
-
-
+<img width="300" height="500"  src="https://github.com/trungnv61/booking_app_hotel/assets/77780956/5c6a2a59-46b1-4109-b703-3653f2bcc080" alt="" />
 
 ### `SignUp`
 
